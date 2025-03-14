@@ -32,7 +32,7 @@ QuickCall is a video conferencing application built with Next.js, leveraging Mon
 1. Clone the repository:
 
    ```bash
-   git clone https://https://github.com/MeAkash77/Video-Conferencing-App-Website
+   git clone https://https://https://github.com/MeAkash77/Video-Conferencing-App-Website.git
    cd quickcall
    ```
 
